@@ -1,0 +1,10 @@
+
+baseURL = "https://letterzzle-blog.pages.dev/"
+languageCode = "en-us"
+title = "Letterzzle Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
