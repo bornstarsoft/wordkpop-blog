@@ -1,7 +1,7 @@
 
-baseURL = "https://letterzzle-blog.pages.dev/"
+baseURL = "https://wordkpop-blog.pages.dev/"
 languageCode = "en-us"
-title = "Letterzzle Blog"
+title = "WordKpop Blog"
 theme = "ananke"
 buildFuture = true
 paginate = 10
