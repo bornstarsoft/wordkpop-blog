@@ -1,10 +1,14 @@
 
-baseURL = "https://wordkpop-blog.pages.dev/"
+baseURL = "https://wordkpop.com/"
 languageCode = "en-us"
-title = "WordKpop Blog"
+title = "Word Kpop"
 theme = "ananke"
-buildFuture = true
-paginate = 10
+
+enableRobotsTXT = true
+buildFuture = false
+
+[pagination]
+pagerSize = 10
 
 [params]
   mainSections = ["posts"]
